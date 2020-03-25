@@ -1,0 +1,23 @@
+@media (max-width: 600px) {
+    .btn-outline-secondary{display: none;}
+}
+
+.card-img{
+
+    height: 50px;
+    width: 50px;
+}
+
+.btn{
+    width: 100%;
+}
+
+.btn-outline-secondary {
+    background: #fff;
+    border-color: #6c757d;
+}
+
+.btn-outline-secondary[_ngcontent-c1]:hover {
+    color:#fff!important;
+    background: #6c757d!important;
+}

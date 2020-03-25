@@ -1,0 +1,41 @@
+@media (max-width: 600px) {
+    .row-desktop{display: none;}
+    .btn{
+        width: 70%;
+        border-radius: .90rem;
+    }
+    .font-conf{
+        font-size: 25px;
+        text-align: left;
+    }
+
+    .font-conf-perfil{
+        font-size: 20px;
+        text-align: left;
+    }
+}
+@media (min-width: 600px) {
+    .row-mobile{display: none;}
+    .btn{
+        width: 30%;
+        border-radius: .90rem;
+    }
+    .font-conf{
+        font-size: 15px;
+        text-align: left;
+    }
+}
+
+.card-img-perfil{
+    border-radius: 2rem;
+}
+
+.font-color{
+
+    color:#6c757c;
+}
+
+.padding-config{
+
+    padding: 4rem 2rem;
+}

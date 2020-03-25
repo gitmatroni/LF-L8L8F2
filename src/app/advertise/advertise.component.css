@@ -1,0 +1,22 @@
+@media (max-width: 600px) {
+    .btn{
+        width: 35%;
+        font-size: 20px;
+        border-radius: .90rem;
+    }
+    .font-conf{
+        font-size: 32px;
+    }
+}
+@media (min-width: 600px) {
+    .btn{
+        width: 15%;
+        border-radius: .90rem;
+    }
+}
+
+.font-color{
+
+    color:#6c757c;
+}
+
